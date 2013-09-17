@@ -1,4 +1,4 @@
 nodejs-examples
 ===============
 
-some working explaes of nodejs
+some working examples of nodejs
